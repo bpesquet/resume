@@ -29,79 +29,50 @@
             "position": "Full-time professor",
             "url": "https://ensc.bordeaux-inp.fr/en",
             "startDate": "2016-09-01",
-            "summary": "Course design and animation, educational support, projects and internships management.",
+            "summary": "Teaching, course design, educational support, project and exam management.",
             "highlights": [
-                "Co-creator in 2019 and head of the AI specialization track.",
-                "Head of the second year of study since 2017.",
-                "Responsible for several CS and AI courses.",
+                "Co-creator and head of the AI specialization track since 2019.",
+                "Responsible for the second year of study and several CS and AI courses.",
                 "Involved in training programs for external students and professionals."
             ]
         },
         {
-            "name": "Education Nationale",
+            "name": "BTS IG/SIO, Chalon-sur-Saône, Laval, Lyon",
             "position": "Full-time professor",
             "url": "https://www.btsinfo.fr/",
             "startDate": "2006-09-01",
             "endDate": "2016-08-31",
-            "summary": "Teaching in BTS Informatique de Gestion and BTS Services Informatiques aux Organisations.",
+            "summary": "Teaching, educational support, exam management.",
             "highlights": [
-                "Member of the jury for the CAPET national exam from 2016 to 2019.",
-                "Passed the Agrégation national teaching exam in 2008 (ranked first).",
-                "Passed the CAPET national teaching exam in 2006."
+                "Member of the jury for the CAPET national teaching exam from 2016 to 2019.",
+                "Passed the CAPET (2006) and Agrégation (2008, ranked first) national teaching exams."
             ]
         },
         {
-            "name": "Artal",
+            "name": "Artal, Toulouse",
             "position": "Software Engineer",
-            "url": "https://ensc.bordeaux-inp.fr/en",
+            "url": "https://artal-group.com/artal/",
             "startDate": "1999-09-01",
             "endDate": "2006-08-31",
-            "summary": "Course design and animation, educational support, projects and internships management.",
-            "highlights": [
-                "Co-creator in 2019 and head of the AI specialization track.",
-                "Head of the second year of study since 2017.",
-                "Responsible for several CS and AI courses.",
-                "Involved in training programs for external students and professionals."
-            ]
+            "summary": "Developer, tech lead and project lead for companies such as Airbus, Astrium and Alcatel."
         }
     ],
     "education": [
         {
-            "institution": "ENSIIE",
+            "institution": "ENSIIE, Evry",
             "url": "https://www.ensiie.fr/",
-            "area": "Software Engineer",
+            "area": "Computer Science Engineer",
             "startDate": "1996",
             "endDate": "1999",
-            "courses": [
-                "Object-oriented programming",
-                "Artificial intelligence",
-                "RoboCup'99"
-            ]
-        }
-    ],
-    "awards": [
+            "summary": "Graduate engineering school, majors in object-oriented programming and artificial intelligence."
+        },
         {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "certificates": [
-        {
-            "name": "Certificate",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "url": "https://publication.com",
-            "summary": "Description…"
+            "institution": "Lycée Pierre Corneille, Rouen",
+            "url": "https://www.ensiie.fr/",
+            "area": "CPGE Student",
+            "startDate": "1994",
+            "endDate": "1996",
+            "summary": "Classes Préparatoires aux Grandes Ecoles, option M."
         }
     ],
     "skills": [
@@ -164,47 +135,6 @@
                 "ORACLE",
                 "Firebase"
             ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Native speaker"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Wildlife",
-            "keywords": [
-                "Ferrets",
-                "Unicorns"
-            ]
-        }
-    ],
-    "references": [
-        {
-            "name": "Jane Doe",
-            "reference": "Reference…"
-        }
-    ],
-    "projects": [
-        {
-            "name": "Project",
-            "description": "Description…",
-            "highlights": [
-                "Won award at AIHacks 2016"
-            ],
-            "keywords": [
-                "HTML"
-            ],
-            "startDate": "2019-01-01",
-            "endDate": "2021-01-01",
-            "url": "https://project.com/",
-            "roles": [
-                "Team Lead"
-            ],
-            "entity": "Entity",
-            "type": "application"
         }
     ]
 }
