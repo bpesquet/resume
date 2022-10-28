@@ -1,0 +1,210 @@
+{
+    "basics": {
+        "name": "Baptiste Pesquet",
+        "label": "Software engineer | Teacher | Trainer in computer science and artificial intelligence",
+        "image": "",
+        "email": "bpesquet@gmail.com",
+        "website": "https://www.bpesquet.fr",
+        "summary": "After graduating as an engineer and working for several years in the software industry, I decided to become a full-time professor. Since then, I have been teaching computer science and (more recently) artificial intelligence to undergraduates, graduate students and professionals. I try my best to combine a high level of technical expertise with the pedagogical qualities needed to deliver an efficient and enjoyable learning experience.",
+        "location": {
+            "city": "Bordeaux",
+            "countryCode": "FR"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "bpesquet",
+                "url": "https://github.com/bpesquet"
+            },
+            {
+                "network": "Twitter",
+                "username": "bpesquet",
+                "url": "https://twitter.com/bpesquet"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "ENSC - Bordeaux INP",
+            "position": "Full-time professor",
+            "url": "https://ensc.bordeaux-inp.fr/en",
+            "startDate": "2016-09-01",
+            "summary": "Course design and animation, educational support, projects and internships management.",
+            "highlights": [
+                "Co-creator in 2019 and head of the AI specialization track.",
+                "Head of the second year of study since 2017.",
+                "Responsible for several CS and AI courses.",
+                "Involved in training programs for external students and professionals."
+            ]
+        },
+        {
+            "name": "Education Nationale",
+            "position": "Full-time professor",
+            "url": "https://www.btsinfo.fr/",
+            "startDate": "2006-09-01",
+            "endDate": "2016-08-31",
+            "summary": "Teaching in BTS Informatique de Gestion and BTS Services Informatiques aux Organisations.",
+            "highlights": [
+                "Member of the jury for the CAPET national exam from 2016 to 2019.",
+                "Passed the Agrégation national teaching exam in 2008 (ranked first).",
+                "Passed the CAPET national teaching exam in 2006."
+            ]
+        },
+        {
+            "name": "Artal",
+            "position": "Software Engineer",
+            "url": "https://ensc.bordeaux-inp.fr/en",
+            "startDate": "1999-09-01",
+            "endDate": "2006-08-31",
+            "summary": "Course design and animation, educational support, projects and internships management.",
+            "highlights": [
+                "Co-creator in 2019 and head of the AI specialization track.",
+                "Head of the second year of study since 2017.",
+                "Responsible for several CS and AI courses.",
+                "Involved in training programs for external students and professionals."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "ENSIIE",
+            "url": "https://www.ensiie.fr/",
+            "area": "Software Engineer",
+            "startDate": "1996",
+            "endDate": "1999",
+            "courses": [
+                "Object-oriented programming",
+                "Artificial intelligence",
+                "RoboCup'99"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming Languages",
+            "keywords": [
+                "C#",
+                "Python",
+                "JavaScript",
+                "TypeScript",
+                "Java",
+                "C++"
+            ]
+        },
+        {
+            "name": "Machine Learning and Data Science",
+            "keywords": [
+                "PyTorch",
+                "TF/Keras",
+                "NumPy",
+                "scikit-learn",
+                "pandas",
+                "MLflow"
+            ]
+        },
+        {
+            "name": "Web and Mobile",
+            "keywords": [
+                "Node.js",
+                "React",
+                "React Native",
+                "HTML",
+                "CSS",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Software Engineering",
+            "keywords": [
+                "UML",
+                "Design Patterns",
+                "O/RM",
+                "Multithreading"
+            ]
+        },
+        {
+            "name": "Versioning and Deployment",
+            "keywords": [
+                "Git",
+                "GitHub",
+                "Heroku",
+                "Azure"
+            ]
+        },
+        {
+            "name": "DBMS",
+            "keywords": [
+                "SQLite",
+                "MySQL/MariaDB",
+                "ORACLE",
+                "Firebase"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": [
+                "Ferrets",
+                "Unicorns"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project",
+            "description": "Description…",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "keywords": [
+                "HTML"
+            ],
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "url": "https://project.com/",
+            "roles": [
+                "Team Lead"
+            ],
+            "entity": "Entity",
+            "type": "application"
+        }
+    ]
+}
