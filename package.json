@@ -1,15 +1,11 @@
 {
-  "name": "bpesquet-resume",
+  "name": "bpesquet-cv",
   "version": "1.0.0",
-  "description": "Baptiste Pesquet's resume",
+  "description": "Baptiste Pesquet's CV in French and English",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Baptiste Pesquet",
   "license": "ISC",
   "dependencies": {
-    "jsonresume-theme-caffeine": "^1.2.3",
     "jsonresume-theme-stackoverflow": "^2.0.0"
   }
 }
