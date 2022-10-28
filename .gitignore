@@ -1,6 +1,8 @@
 # Resume output
-resume.pdf
-resume.html
+*resume*.pdf
+*resume*.html
+*cv*.pdf
+*cv*.html
 
 # Logs
 logs

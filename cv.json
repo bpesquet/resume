@@ -1,0 +1,139 @@
+{
+    "basics": {
+        "name": "Baptiste Pesquet",
+        "label": "Ingénieur | Enseignant | Formateur en informatique et intelligence artificielle",
+        "image": "",
+        "email": "bpesquet@gmail.com",
+        "website": "https://www.bpesquet.fr",
+        "summary": "J'enseigne l'informatique et l'intelligence artificielle à un public étudiant ou professionnel depuis 2006. Auparavant, j'ai travaillé plusieurs années comme ingénieur en informatique. Je tente de combiner un haut niveau d'expertise technique avec les qualités pédagogiques nécessaires pour une expérience d'apprentissage à la fois efficace et agréable.",
+        "location": {
+            "city": "Bordeaux",
+            "countryCode": "FR"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "bpesquet",
+                "url": "https://github.com/bpesquet"
+            },
+            {
+                "network": "Twitter",
+                "username": "bpesquet",
+                "url": "https://twitter.com/bpesquet"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "ENSC - Bordeaux INP",
+            "position": "Enseignant et formateur",
+            "url": "https://ensc.bordeaux-inp.fr/en",
+            "startDate": "2016-09-01",
+            "summary": "Conception et animation de cours, accompagnement pédagogique, gestion de projets et d'examens, formation continue.",
+            "highlights": [
+                "Co-créateur et responsable de la spécialisation en intelligence artificielle depuis 2019.",
+                "Responsable de la deuxième année d'enseignement ainsi que de plusieurs modules de cours."
+            ]
+        },
+        {
+            "name": "BTS IG/SIO, Chalon-sur-Saône, Laval, Lyon",
+            "position": "Enseignant en informatique",
+            "url": "https://www.btsinfo.fr/",
+            "startDate": "2006-09-01",
+            "endDate": "2016-08-31",
+            "summary": "Animation de cours, accompagnement pédagogique, gestion d'examens.",
+            "highlights": [
+                "Membre du jury du CAPET interne de 2016 à 2019.",
+                "Lauréat du CAPET en 2006, major de l'agrégation en 2008."
+            ]
+        },
+        {
+            "name": "Artal, Toulouse",
+            "position": "Ingénieur informaticien",
+            "url": "https://artal-group.com/artal/",
+            "startDate": "1999-09-01",
+            "endDate": "2006-08-31",
+            "summary": "Développeur, responsable technique et chef de projet pour des entreprises comme Airbus, Astrium et Alcatel."
+        }
+    ],
+    "education": [
+        {
+            "institution": "ENSIIE, Evry",
+            "url": "https://www.ensiie.fr/",
+            "area": "Ecole d'ingénieurs",
+            "startDate": "1996",
+            "endDate": "1999",
+            "summary": "Spécialisations en programmation orientée objet et intelligence artificielle. Participation à la RoboCup'99 dans le cadre du stage de fin d'études."
+        },
+        {
+            "institution": "Lycée Pierre Corneille, Rouen",
+            "url": "https://lgcorneille-lyc.spip.ac-rouen.fr/",
+            "area": "CPGE",
+            "startDate": "1994",
+            "endDate": "1996",
+            "summary": "Classes Préparatoires aux Grandes Ecoles, option M."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Langages de programmation",
+            "keywords": [
+                "C#",
+                "Python",
+                "JavaScript",
+                "TypeScript",
+                "Java",
+                "C++"
+            ]
+        },
+        {
+            "name": "Machine Learning et Data Science",
+            "keywords": [
+                "PyTorch",
+                "TF/Keras",
+                "NumPy",
+                "scikit-learn",
+                "pandas",
+                "MLflow"
+            ]
+        },
+        {
+            "name": "Développement Web et Mobile",
+            "keywords": [
+                "Node.js",
+                "React",
+                "React Native",
+                "HTML",
+                "CSS",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Génie Logiciel",
+            "keywords": [
+                "UML",
+                "Design Patterns",
+                "O/RM",
+                "Multithreading"
+            ]
+        },
+        {
+            "name": "Versionnage et déploiement",
+            "keywords": [
+                "Git",
+                "GitHub",
+                "Heroku",
+                "Azure"
+            ]
+        },
+        {
+            "name": "SGBD",
+            "keywords": [
+                "SQLite",
+                "MySQL/MariaDB",
+                "ORACLE",
+                "Firebase"
+            ]
+        }
+    ]
+}
