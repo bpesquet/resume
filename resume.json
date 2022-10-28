@@ -26,12 +26,12 @@
     "work": [
         {
             "name": "ENSC - Bordeaux INP",
-            "position": "Full-time professor",
+            "position": "Full-time professor and trainer",
             "url": "https://ensc.bordeaux-inp.fr/en",
             "startDate": "2016-09-01",
             "summary": "Teaching, course design, educational support, project and exam management.",
             "highlights": [
-                "Co-creator and head of the AI specialization track since 2019.",
+                "Co-creator and head of the artificial intelligence specialization track since 2019.",
                 "Responsible for the second year of study and several CS and AI courses.",
                 "Involved in training programs for external students and professionals."
             ]
@@ -54,21 +54,21 @@
             "url": "https://artal-group.com/artal/",
             "startDate": "1999-09-01",
             "endDate": "2006-08-31",
-            "summary": "Developer, tech lead and project lead for companies such as Airbus, Astrium and Alcatel."
+            "summary": "Developer, tech and project lead for companies such as Airbus, Astrium and Alcatel."
         }
     ],
     "education": [
         {
             "institution": "ENSIIE, Evry",
             "url": "https://www.ensiie.fr/",
-            "area": "Computer Science Engineer",
+            "area": "Computer Science Student",
             "startDate": "1996",
             "endDate": "1999",
             "summary": "Graduate engineering school, majors in object-oriented programming and artificial intelligence."
         },
         {
             "institution": "Lycée Pierre Corneille, Rouen",
-            "url": "https://www.ensiie.fr/",
+            "url": "https://lgcorneille-lyc.spip.ac-rouen.fr/",
             "area": "CPGE Student",
             "startDate": "1994",
             "endDate": "1996",
@@ -99,7 +99,7 @@
             ]
         },
         {
-            "name": "Web and Mobile",
+            "name": "Web and Mobile Development",
             "keywords": [
                 "Node.js",
                 "React",
