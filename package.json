@@ -1,11 +1,12 @@
 {
-  "name": "bpesquet-cv",
+  "name": "bpesquet-resume",
   "version": "1.0.0",
-  "description": "Baptiste Pesquet's CV in French and English",
+  "description": "Baptiste Pesquet's resume in French and English",
   "main": "index.js",
   "author": "Baptiste Pesquet",
   "license": "ISC",
-  "dependencies": {
-    "jsonresume-theme-stackoverflow": "^2.0.0"
+  "devDependencies": {
+    "jsonresume-theme-stackoverflow": "2.0.0",
+    "jsonresume-theme-debordementdepile": "^1.0.0"
   }
 }
