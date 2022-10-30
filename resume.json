@@ -23,58 +23,6 @@
             }
         ]
     },
-    "work": [
-        {
-            "name": "ENSC - Bordeaux INP",
-            "position": "Full-time professor and trainer",
-            "url": "https://ensc.bordeaux-inp.fr/en",
-            "startDate": "2016-09-01",
-            "summary": "Teaching, course design, educational support, project and exam management.",
-            "highlights": [
-                "Co-creator and head of the artificial intelligence specialization track since 2019.",
-                "Responsible for the second year of study and several CS and AI courses.",
-                "Involved in training programs for external students and professionals."
-            ]
-        },
-        {
-            "name": "BTS IG/SIO, Chalon-sur-Saône, Laval, Lyon",
-            "position": "Full-time professor",
-            "url": "https://www.btsinfo.fr/",
-            "startDate": "2006-09-01",
-            "endDate": "2016-08-31",
-            "summary": "Teaching, educational support, exam management.",
-            "highlights": [
-                "Member of the jury for the CAPET national teaching exam from 2016 to 2019.",
-                "Passed the CAPET (2006) and Agrégation (2008, ranked first) national teaching exams."
-            ]
-        },
-        {
-            "name": "Artal, Toulouse",
-            "position": "Software Engineer",
-            "url": "https://artal-group.com/artal/",
-            "startDate": "1999-09-01",
-            "endDate": "2006-08-31",
-            "summary": "Developer, tech and project lead for companies such as Airbus, Astrium and Alcatel."
-        }
-    ],
-    "education": [
-        {
-            "institution": "ENSIIE, Evry",
-            "url": "https://www.ensiie.fr/",
-            "area": "Computer Science Engineering School",
-            "startDate": "1996",
-            "endDate": "1999",
-            "summary": "Graduate engineering school (\"Grande Ecole\"). Majors in object-oriented programming and artificial intelligence. Competed in RoboCup'99 during final internship."
-        },
-        {
-            "institution": "Lycée Pierre Corneille, Rouen",
-            "url": "https://lgcorneille-lyc.spip.ac-rouen.fr/",
-            "area": "CPGE",
-            "startDate": "1994",
-            "endDate": "1996",
-            "summary": "Classes Préparatoires aux Grandes Ecoles, option M."
-        }
-    ],
     "skills": [
         {
             "name": "Programming Languages",
@@ -135,6 +83,57 @@
                 "ORACLE",
                 "Firebase"
             ]
+        }
+    ],
+    "work": [
+        {
+            "name": "ENSC - Bordeaux INP",
+            "position": "Full-time professor and trainer",
+            "url": "https://ensc.bordeaux-inp.fr/en",
+            "startDate": "2016-09-01",
+            "summary": "Teaching, course design and management, educational support, project monitoring, exam management, continuous training.",
+            "highlights": [
+                "Co-creator and head of the artificial intelligence specialization track since 2019.",
+                "Responsible for the second year of study and several CS and AI courses."
+            ]
+        },
+        {
+            "name": "BTS IG/SIO, Chalon-sur-Saône, Laval, Lyon",
+            "position": "Full-time professor",
+            "url": "https://www.btsinfo.fr/",
+            "startDate": "2006-09-01",
+            "endDate": "2016-08-31",
+            "summary": "Teaching, educational support, exam management.",
+            "highlights": [
+                "Member of the jury for the CAPET national teaching exam from 2016 to 2019.",
+                "Passed the CAPET (2006) and Agrégation (2008, ranked first) national teaching exams."
+            ]
+        },
+        {
+            "name": "Artal, Toulouse",
+            "position": "Software Engineer",
+            "url": "https://artal-group.com/artal/",
+            "startDate": "1999-09-01",
+            "endDate": "2006-08-31",
+            "summary": "Developer, tech and project lead for companies such as Airbus, Astrium and Alcatel."
+        }
+    ],
+    "education": [
+        {
+            "institution": "ENSIIE, Evry",
+            "url": "https://www.ensiie.fr/",
+            "area": "Computer Science Engineering School",
+            "startDate": "1996",
+            "endDate": "1999",
+            "summary": "Graduate engineering school (\"Grande Ecole\"). Majors in object-oriented programming and artificial intelligence. Competed in RoboCup'99 during final internship."
+        },
+        {
+            "institution": "Lycée Pierre Corneille, Rouen",
+            "url": "https://lgcorneille-lyc.spip.ac-rouen.fr/",
+            "area": "CPGE",
+            "startDate": "1994",
+            "endDate": "1996",
+            "summary": "Classes Préparatoires aux Grandes Ecoles, option M."
         }
     ]
 }
