@@ -99,14 +99,14 @@
         },
         {
             "name": "BTS IG/SIO, Chalon-sur-Saône, Laval, Lyon",
-            "position": "Full-time professor",
+            "position": "Full-time professor and trainer",
             "url": "https://www.btsinfo.fr/",
             "startDate": "2006-09-01",
             "endDate": "2016-08-31",
-            "summary": "Teaching, educational support, exam management.",
+            "summary": "Teaching, educational support, exam management, peer training.",
             "highlights": [
-                "Member of the jury for the CAPET national teaching exam from 2016 to 2019.",
-                "Passed the CAPET (2006) and Agrégation (2008, ranked first) national teaching exams."
+                "Education Nationale teaching examinations: passed the CAPET in 2005 and Agrégation in 2008 (ranked first).",
+                "Member of the jury for the CAPET national teaching examination from 2016 to 2019."
             ]
         },
         {
@@ -130,10 +130,9 @@
         {
             "institution": "Lycée Pierre Corneille, Rouen",
             "url": "https://lgcorneille-lyc.spip.ac-rouen.fr/",
-            "area": "CPGE",
+            "area": "Classes Préparatoires aux Grandes Ecoles, option M",
             "startDate": "1994",
-            "endDate": "1996",
-            "summary": "Classes Préparatoires aux Grandes Ecoles, option M."
+            "endDate": "1996"
         }
     ]
 }
