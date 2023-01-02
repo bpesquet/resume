@@ -5,7 +5,7 @@
         "image": "",
         "email": "bpesquet@gmail.com",
         "website": "https://www.bpesquet.fr",
-        "summary": "Ingénieur et professeur agrégé, j'enseigne l'informatique et l'intelligence artificielle à un public étudiant ou professionnel depuis 2006. Auparavant, j'ai travaillé plusieurs années dans l'industrie du logiciel. Je m'efforce de combiner un haut niveau d'expertise technique avec les qualités pédagogiques nécessaires pour proposer une expérience d'apprentissage à la fois efficace et agréable.",
+        "summary": "Ingénieur et professeur agrégé, j'enseigne l'informatique et l'intelligence artificielle à un public étudiant ou professionnel depuis 2006. Auparavant, j'ai travaillé plusieurs années dans l'industrie du logiciel. Je m'efforce de combiner un haut niveau d'expertise scientifique et technique avec les qualités pédagogiques nécessaires pour proposer une expérience d'apprentissage à la fois efficace et agréable.",
         "location": {
             "city": "Bordeaux",
             "countryCode": "FR"
@@ -20,6 +20,11 @@
                 "network": "Twitter",
                 "username": "bpesquet",
                 "url": "https://twitter.com/bpesquet"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "bpesquet",
+                "url": "https://www.linkedin.com/in/bpesquet"
             }
         ]
     },

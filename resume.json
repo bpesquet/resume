@@ -5,7 +5,7 @@
         "image": "",
         "email": "bpesquet@gmail.com",
         "website": "https://www.bpesquet.fr",
-        "summary": "I teach computer science and artificial intelligence to students and professionals since 2006. Before that, I graduated as an engineer and worked for several years in the software industry. I try my best to combine a high level of technical expertise with the pedagogical qualities needed to deliver an efficient and enjoyable learning experience.",
+        "summary": "I teach computer science and artificial intelligence to students and professionals since 2006. Before that, I graduated as a software engineer and worked for several years in the industry. I try my best to combine a high level of scientific and technical expertise with the pedagogical qualities needed to deliver an efficient and enjoyable learning experience.",
         "location": {
             "city": "Bordeaux",
             "countryCode": "FR"
@@ -20,6 +20,11 @@
                 "network": "Twitter",
                 "username": "bpesquet",
                 "url": "https://twitter.com/bpesquet"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "bpesquet",
+                "url": "https://www.linkedin.com/in/bpesquet"
             }
         ]
     },
