@@ -5,7 +5,7 @@ My resume (CV) in French and English, powered by [JSON Resume](https://jsonresum
 Current themes:
 
 - [Stack Overflow](https://github.com/phoinixi/jsonresume-theme-stackoverflow) (English).
-- [Débordement de Pile](https://github.com/bpesquet/jsonresume-theme-debordementdepile)  (French).
+- [Débordement de Pile](https://github.com/bpesquet/jsonresume-theme-debordementdepile) (French).
 
 ## Building
 
