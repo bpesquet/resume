@@ -2,10 +2,7 @@
 
 My resume (CV) in French and English, powered by [JSON Resume](https://jsonresume.org/).
 
-Current themes:
-
-- [Stack Overflow](https://github.com/phoinixi/jsonresume-theme-stackoverflow) (English).
-- [Débordement de Pile](https://github.com/bpesquet/jsonresume-theme-debordementdepile) (French).
+Current theme: [Stack Overflow](https://github.com/phoinixi/jsonresume-theme-stackoverflow) (English).
 
 ## Building
 
@@ -14,8 +11,9 @@ Current themes:
 {npm|yarn} install
 
 # Build English version
-resume export BaptistePesquet_Resume.{html|pdf} -t stackoverflow
+resume export resume.{html|pdf} -t stackoverflow
 
 # Build French version
-resume export CV_BaptistePesquet.{html|pdf} -t debordementdepile -r cv.json
+# Translated files in the fr/ subfolder need to be copied to node_modules/ beforehand
+resume export cv.{html|pdf} -t stackoverflow -r cv.json
 ```
