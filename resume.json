@@ -1,143 +1,135 @@
 {
-    "basics": {
-        "name": "Baptiste Pesquet",
-        "label": "Software engineer | Teacher | Trainer in computer science and artificial intelligence",
-        "image": "",
-        "email": "bpesquet@gmail.com",
-        "website": "https://www.bpesquet.fr",
-        "summary": "I teach computer science and artificial intelligence to students and professionals since 2006. Before that, I graduated as a software engineer and worked for several years in the industry. I try my best to combine a high level of scientific and technical expertise with the pedagogical qualities needed to deliver an efficient and enjoyable learning experience.",
-        "location": {
-            "city": "Bordeaux",
-            "countryCode": "FR"
-        },
-        "profiles": [
-            {
-                "network": "GitHub",
-                "username": "bpesquet",
-                "url": "https://github.com/bpesquet"
-            },
-            {
-                "network": "Twitter",
-                "username": "bpesquet",
-                "url": "https://twitter.com/bpesquet"
-            },
-            {
-                "network": "LinkedIn",
-                "username": "bpesquet",
-                "url": "https://www.linkedin.com/in/bpesquet"
-            }
-        ]
+  "basics": {
+    "name": "Baptiste Pesquet",
+    "label": "Software engineer | Professor | Apprentice researcher",
+    "image": "",
+    "email": "bpesquet@gmail.com",
+    "website": "https://www.bpesquet.fr",
+    "summary": "I am a computer science professor working part-time on a PhD in artificial intelligence. Before that, I graduated as a software engineer and worked for several years in the industry.",
+    "location": {
+      "city": "Bordeaux",
+      "countryCode": "FR"
     },
-    "skills": [
-        {
-            "name": "Programming Languages",
-            "keywords": [
-                "C#",
-                "Python",
-                "JavaScript",
-                "TypeScript",
-                "Java",
-                "C++"
-            ]
-        },
-        {
-            "name": "Machine Learning and Data Science",
-            "keywords": [
-                "PyTorch",
-                "TF/Keras",
-                "NumPy",
-                "scikit-learn",
-                "pandas",
-                "MLflow"
-            ]
-        },
-        {
-            "name": "Web and Mobile Development",
-            "keywords": [
-                "Node.js",
-                "React",
-                "React Native",
-                "HTML",
-                "CSS",
-                "PHP"
-            ]
-        },
-        {
-            "name": "Software Engineering",
-            "keywords": [
-                "UML",
-                "Design Patterns",
-                "O/RM",
-                "Multithreading"
-            ]
-        },
-        {
-            "name": "Versioning and Deployment",
-            "keywords": [
-                "Git",
-                "GitHub",
-                "Heroku",
-                "Azure"
-            ]
-        },
-        {
-            "name": "DBMS",
-            "keywords": [
-                "SQLite",
-                "MySQL/MariaDB",
-                "ORACLE",
-                "Firebase"
-            ]
-        }
-    ],
-    "work": [
-        {
-            "name": "ENSC - Bordeaux INP",
-            "position": "Full-time professor and trainer",
-            "url": "https://ensc.bordeaux-inp.fr/en",
-            "startDate": "2016-09-01",
-            "summary": "Teaching, course design and management, educational support, project monitoring, exam management, continuous training.",
-            "highlights": [
-                "Co-creator and head of the artificial intelligence specialization track since 2019.",
-                "Responsible for the second year of study and several CS and AI courses."
-            ]
-        },
-        {
-            "name": "BTS IG/SIO, Chalon-sur-Saône, Laval, Lyon",
-            "position": "Full-time professor and trainer",
-            "url": "https://www.btsinfo.fr/",
-            "startDate": "2006-09-01",
-            "endDate": "2016-08-31",
-            "summary": "Teaching, educational support, exam management, peer training.",
-            "highlights": [
-                "Education Nationale teaching examinations: passed the CAPET in 2005 and Agrégation in 2008 (ranked first).",
-                "Member of the jury for the CAPET national teaching examination from 2016 to 2019."
-            ]
-        },
-        {
-            "name": "Artal, Toulouse",
-            "position": "Software Engineer",
-            "url": "https://artal-group.com/artal/",
-            "startDate": "1999-09-01",
-            "endDate": "2006-08-31",
-            "summary": "Developer, tech and project lead for companies such as Airbus, Astrium and Alcatel."
-        }
-    ],
-    "education": [
-        {
-            "institution": "ENSIIE, Evry",
-            "url": "https://www.ensiie.fr/",
-            "area": "Computer Science Engineering School",
-            "startDate": "1996",
-            "endDate": "1999",
-            "summary": "Graduate engineering school (\"Grande Ecole\"). Majors in object-oriented programming and artificial intelligence. Competed in RoboCup'99 during final internship."
-        },
-        {
-            "institution": "Lycée Pierre Corneille, Rouen",
-            "url": "https://lgcorneille-lyc.spip.ac-rouen.fr/",
-            "area": "Classes Préparatoires aux Grandes Ecoles, option M",
-            "startDate": "1994",
-            "endDate": "1996"
-        }
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "bpesquet",
+        "url": "https://github.com/bpesquet"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "bpesquet",
+        "url": "https://www.linkedin.com/in/bpesquet"
+      }
     ]
+  },
+  "work": [
+    {
+      "name": "INRIA Bordeaux",
+      "position": "PhD student",
+      "url": "https://www.inria.fr/",
+      "startDate": "2023-09-01",
+      "summary": "PhD student in artificial intelligence. Interests: decision-making, reinforcement learning, artificial metacognition."
+    },
+    {
+      "name": "ENSC - Bordeaux INP",
+      "position": "Professor",
+      "url": "https://ensc.bordeaux-inp.fr/en",
+      "startDate": "2016-09-01",
+      "summary": "Computer science and artificial intelligence professor. Co-creator and head of the AI specialization track."
+    },
+    {
+      "name": "Education Nationale",
+      "position": "Professor",
+      "url": "https://www.btsinfo.fr/",
+      "startDate": "2006-09-01",
+      "endDate": "2016-08-31",
+      "summary": "Computer science professor in BTS IG/SIO (Chalon-sur-Saöne, Laval, Lyon). Jury member for the CAPET in economy, management and information technology from 2016 to 2019."
+    },
+    {
+      "name": "Artal Technologies, Toulouse",
+      "position": "Software Engineer",
+      "url": "https://artal-group.com/artal/",
+      "startDate": "1999-09-01",
+      "endDate": "2006-08-31",
+      "summary": "Developer and tech lead on projects for companies such as Airbus, Astrium and Alcatel."
+    }
+  ],
+  "education": [
+    {
+      "institution": "ENSIIE, Evry",
+      "url": "https://www.ensiie.fr/",
+      "area": "Graduate engineering school in computer science",
+      "startDate": "1996",
+      "endDate": "1999",
+      "summary": "Majors in object-oriented programming and artificial intelligence. Internships at Mobil Chemicals, Oléane (Orange) and IRIT Toulouse. Creation of a software agents team that competed in RoboCup'99."
+    },
+    {
+      "institution": "Lycée Pierre Corneille, Rouen",
+      "url": "https://lgcorneille-lyc.spip.ac-rouen.fr/",
+      "area": "Preparatory class for the Grandes Ecoles, major in mathematics",
+      "startDate": "1994",
+      "endDate": "1996"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Agrégation in economy, management and information technology (ranked first)",
+      "date": "2008"
+    },
+    {
+      "name": "Software engineering degree",
+      "date": "1999"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Artificial Intelligence",
+      "keywords": ["Machine Learning", "Decision-making", "Search algorithms"]
+    },
+    {
+      "name": "Computer Science",
+      "keywords": [
+        "Programming",
+        "Web development",
+        "Mobile development",
+        "Software architecture",
+        "Databases"
+      ]
+    },
+    {
+      "name": "Teaching",
+      "keywords": [
+        "Course management",
+        "Curriculum design",
+        "Technical writing"
+      ]
+    },
+    {
+      "name": "Machine Learning tools",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow/Keras",
+        "scikit-learn",
+        "NumPy",
+        "pandas"
+      ]
+    },
+    {
+      "name": "Programming languages",
+      "keywords": [
+        "C#",
+        "Python",
+        "Java",
+        "C++",
+        "JavaScript",
+        "TypeScript",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Data & Tooling",
+      "keywords": ["SQL", "Linq", "Git", "GitHub", "Docker", "Azure", "Heroku"]
+    }
+  ]
 }
