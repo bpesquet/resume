@@ -6,7 +6,6 @@
   "author": "Baptiste Pesquet",
   "license": "ISC",
   "devDependencies": {
-    "jsonresume-theme-stackoverflow": "2.0.0",
-    "jsonresume-theme-debordementdepile": "^1.0.0"
+    "jsonresume-theme-stackoverflow": "2.0.0"
   }
 }
