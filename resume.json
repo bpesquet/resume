@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Baptiste Pesquet",
-    "label": "Software engineer | Professor | Apprentice researcher",
+    "label": "Software engineer | Professor | AI PhD student",
     "image": "",
     "email": "bpesquet@gmail.com",
     "website": "https://www.bpesquet.fr",
@@ -29,7 +29,7 @@
       "position": "PhD student",
       "url": "https://www.inria.fr/",
       "startDate": "2023-09-01",
-      "summary": "PhD student in artificial intelligence. Interests: decision-making, reinforcement learning, artificial metacognition."
+      "summary": "PhD student in AI. Interests: decision-making, confidence, reinforcement learning, metacognition."
     },
     {
       "name": "ENSC - Bordeaux INP",

@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Baptiste Pesquet",
-    "label": "Ingénieur informaticien | Enseignant | Apprenti chercheur",
+    "label": "Ingénieur informaticien | Enseignant | Doctorant en IA",
     "image": "",
     "email": "bpesquet@gmail.com",
     "website": "https://www.bpesquet.fr",
-    "summary": "Ingénieur et professeur agrégé d'informatique, j'enseigne en école d'ingénieurs tout en réalisant à temps partiel un doctorat en intelligence artificielle.",
+    "summary": "Ingénieur et professeur agrégé d'informatique, j'enseigne en école d'ingénieurs tout en réalisant un doctorat en intelligence artificielle.",
     "location": {
       "city": "Bordeaux",
       "countryCode": "FR"
@@ -29,7 +29,7 @@
       "position": "Doctorant",
       "url": "https://www.inria.fr/",
       "startDate": "2023-09-01",
-      "summary": "Doctorant en IA. Thèmes : prise de décision, apprentissage par renforcement, métacognition artificielle."
+      "summary": "Doctorant en IA. Sujets : prise de décision, confiance, apprentissage par renforcement, métacognition."
     },
     {
       "name": "ENSC - Bordeaux INP",

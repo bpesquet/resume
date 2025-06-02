@@ -4,7 +4,7 @@ My resume (CV) in French and English, powered by [JSON Resume](https://jsonresum
 
 Current theme: [Stack Overflow](https://github.com/phoinixi/jsonresume-theme-stackoverflow) (English).
 
-## Building
+## Development notes
 
 ```bash
 # Installing dependencies
